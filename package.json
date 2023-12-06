@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"flowbite": "^2.2.0",
-		"flowbite-svelte": "^0.44.20"
+		"flowbite-svelte": "0.44.20"
 	},
 	"type": "module"
 }
